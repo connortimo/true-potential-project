@@ -1,0 +1,54 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 22px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.container {
+    height: 200px;
+    background-image: url(stock.jpeg);
+    padding: 59px 500px;
+    margin: 0px;
+}
+
+title {
+    height: 10vh;
+}
+
+.content {
+    position: relative;
+}
+
+.goal {
+    height: 100px;
+}
+
+section {
+    height: 33vh;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#hero .profile-img {
+    width: 200px;
+}
+
+footer {
+    text-align: center;
+    padding: 50px;
+    border: 1px solid black;
+}
